@@ -1,0 +1,6 @@
+package com.plantstore.plant_store
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
